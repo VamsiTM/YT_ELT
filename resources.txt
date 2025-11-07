@@ -1,0 +1,20 @@
+AIzaSyAbTIzsesyfZNmo8dSRUHcKfaP1VojjMjA
+
+Google Developers Console - https://console.cloud.google.com/cloud-resource-manager
+
+Youtube API documentation - https://developers.google.com/youtube/v3/docs
+
+API KEY will be listed here once you create it - https://console.cloud.google.com/apis/credentials
+
+Github Dashboard (To Create a Github Repository) - https://github.com/dashboard
+
+Creating a virtual environment - Python venv - https://docs.python.org/3/library/venv.html
+
+Mr.Beast Youtube Channel - https://www.youtube.com/@MrBeast
+
+Quotas & Limits Link 1 - Determine Quota Cost https://developers.google.com/youtube/v3/determine_quota_cost
+
+Quotas & Limits Link 2 - Quota and Compliance Audits https://developers.google.com/youtube/v3/guides/quota_and_compliance_audits
+
+Requests Errors and Exceptions - Requests Errors and Exceptions https://requests.readthedocs.io/en/latest/user/quickstart/#errors-and-exceptions
+
